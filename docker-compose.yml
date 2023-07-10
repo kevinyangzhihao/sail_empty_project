@@ -113,3 +113,5 @@ volumes:
         driver: local
     sail-meilisearch:
         driver: local
+
+#部署的时候服务器上怎么弄
